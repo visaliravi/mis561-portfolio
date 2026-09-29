@@ -16,3 +16,5 @@ If I did it again, I would test the recommendation against profit per order as w
 Published workbook: https://public.tableau.com/app/profile/muthuvisali.ravichandra.bose/viz/Muthuvisali_Flex4/AppliedChart?publish=yes
 
 If I did it again, I would test cost to serve against order count as well as account revenue, since the policy charges a flat $400 to Inside Sales accounts placing anywhere from 2 to 17 orders, and rep time plainly scales with orders rather than with revenue.
+
+3. Power BI Certification: https://public.tableau.com/app/profile/muthuvisali.ravichandra.bose/viz/PowerBICertificates_17906641699740/PowerBIStory?publish=yes

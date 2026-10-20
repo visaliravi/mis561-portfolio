@@ -33,3 +33,6 @@ Sarah, I am ready for this role because I can decide where a calculation belongs
 For division of labor, I would use Excel to check a formula or a single file before it goes anywhere, Tableau to explore unfamiliar data and make a one time argument where I control the design, as I did in my Flex 4 justification, and Power BI for reports that refresh on a schedule and that Anita and Marcus filter on their own. My honest gap is that I have never run Power BI Desktop against real company data or published to the Power BI Service. To close it, I would rebuild my Flex 4 account model on a Windows machine, publish it to a test workspace, schedule a refresh, and ask a colleague to try to break it.
 
 I used Claude to help draft and edit this entry, and I checked the figures against my own Flex 4 workbook.
+
+
+MIS 561 Advancing in Excel and Tableau Pt. 3, Card Portfolio Review: Which cards without contactless should Card Operations replace early in one batch at about $8 per card?[ [Card Portfolio workbook]](https://public.tableau.com/app/profile/muthuvisali.ravichandra.bose/viz/CardPortfolio_17924518323790/ExploratoryDash?publish=yes). If I did it again, I would test the six month cutoff against how many customers each batch reaches, not only the card count.

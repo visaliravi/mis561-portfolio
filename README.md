@@ -36,3 +36,5 @@ I used Claude to help draft and edit this entry, and I checked the figures again
 
 
 MIS 561 Advancing in Excel and Tableau Pt. 3, Card Portfolio Review: Which cards without contactless should Card Operations replace early in one batch at about $8 per card?[ [Card Portfolio workbook]](https://public.tableau.com/app/profile/muthuvisali.ravichandra.bose/viz/CardPortfolio_17924518323790/ExploratoryDash?publish=yes). If I did it again, I would test the six month cutoff against how many customers each batch reaches, not only the card count.
+
+Advancing in Excel and Tableau, Pt. 4: Where should the Wildcat Rewards Card pilot mailing go? [[Tableau link]](https://public.tableau.com/app/profile/muthuvisali.ravichandra.bose/viz/AdvancinginExcelandTableau_17930642235000/ExploratoryDashboard?publish=yes). If I did it again, I would define the pilot group by account open date instead of state, since the April 2021 customers may be a cleaner list to mail.

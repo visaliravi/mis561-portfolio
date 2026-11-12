@@ -48,3 +48,17 @@ Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: send the Wild
 Design choice: I used a two bar comparison of the pilot states against the rest of the country, because Jordan is choosing one place to mail and needs to see one gap, not a ranking of six states. I removed the chart legend and labeled the bars directly, so Jordan no longer has to match colors to a key and the meaning does not depend on color alone.
 
 Training completed: November 2, 2026.
+
+**Nov 11, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six week first phase to mail the Wildcat Rewards pilot to 97 customers in five Southwest states and measure the response.
+
+[Pitch deck (PDF)]https://github.com/visaliravi/mis561-portfolio/blob/main/adobe/ravichandrabose-product-pitch.pdf · [Adobe Express]https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:85b227ca-b5c5-5693-8add-0d244ecc6128?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other
+
+Toughest objection: "Those 97 customers are mostly former Sagebrush Pay accounts, so a good result may not predict how the rest of the bank responds." Slide 7 answers it: 84 of the 97 opened accounts in April 2021, so the first phase adds a comparison group of eligible customers elsewhere and reports results by group.
+
+AI use: Claude Sonnet 5.5, used to draft slide titles and to identify the toughest objection. 
+
+Training completed: November 10, 2026
+
+

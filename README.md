@@ -57,7 +57,7 @@ Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six week f
 
 Toughest objection: "Those 97 customers are mostly former Sagebrush Pay accounts, so a good result may not predict how the rest of the bank responds." Slide 5 answers it: 84 of the 97 opened accounts in April 2021, so the first phase adds a comparison group of eligible customers elsewhere and reports results by group.
 
-AI use: Claude Sonnet 5.5, used to verify the figures against my data files, draft slide titles and wording, and identify the toughest objection. I checked every number against my own analysis before submitting.
+AI use: Claude Sonnet 5.5, used to verify the figures against my data files, draft slide titles and wording, and identify the toughest objection. 
 
 Training completed: November 10, 2026.
 

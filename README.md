@@ -61,4 +61,12 @@ AI use: Claude Sonnet 5.5, used to verify the figures against my data files, dra
 
 Training completed: November 10, 2026.
 
+**November 23, 2026 · Brand Standard Application in Tableau**
 
+Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
+
+[Tableau workbook]https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17955008928030/Explanatory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+One thing I'd change: I would apply the top 8 filter before formatting labels. With all 22 genres in the view, several bars lost their labels and I had to rework the layout.
+
+AI use: Claude Sonnet 5.5 checked my chart figures against the data and reviewed my text against the IMDb brand guide, November 23, 2026.

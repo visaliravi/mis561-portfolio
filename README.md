@@ -65,7 +65,7 @@ Training completed: November 10, 2026.
 
 Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
 
-[Tableau workbook]https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17955008928030/Explanatory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Tableau workbook]https://public.tableau.com/app/profile/muthuvisali.ravichandra.bose/viz/DataPlusMovies2000-2023_17955008928030/DataMoviesIMDBDashboard
 
 One thing I'd change: I would apply the top 8 filter before formatting labels. With all 22 genres in the view, several bars lost their labels and I had to rework the layout.
 
